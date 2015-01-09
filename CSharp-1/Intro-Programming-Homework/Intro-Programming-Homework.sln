@@ -3,23 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloCSharp", "HelloCSharp\HelloCSharp.csproj", "{5B42BCF1-D6EB-4DA0-A164-8E8D6B7457D9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.HelloCSharp", "HelloCSharp\4.HelloCSharp.csproj", "{5B42BCF1-D6EB-4DA0-A164-8E8D6B7457D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintMyName", "PrintMyName\PrintMyName.csproj", "{DF8FA312-603F-45B1-9A83-2C630011C940}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.PrintMyName", "PrintMyName\5.PrintMyName.csproj", "{DF8FA312-603F-45B1-9A83-2C630011C940}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintNumbers", "PrintNumbers\PrintNumbers.csproj", "{0FDDE99C-4781-442F-9EDB-A0B94E1A3B91}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.PrintNumbers", "PrintNumbers\6.PrintNumbers.csproj", "{0FDDE99C-4781-442F-9EDB-A0B94E1A3B91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintFirstLastName", "PrintFirstLastName\PrintFirstLastName.csproj", "{ADF7FC73-248E-4A27-86C1-525374740B40}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.PrintFirstLastName", "PrintFirstLastName\7.PrintFirstLastName.csproj", "{ADF7FC73-248E-4A27-86C1-525374740B40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareRoot", "SquareRoot\SquareRoot.csproj", "{0E88A0EC-CA46-46DC-9A32-4C29B723B428}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.SquareRoot", "SquareRoot\8.SquareRoot.csproj", "{0E88A0EC-CA46-46DC-9A32-4C29B723B428}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintSequence", "PrintSequence\PrintSequence.csproj", "{BA81967F-C867-49CC-893B-EC927893B76E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.PrintSequence", "PrintSequence\9.PrintSequence.csproj", "{BA81967F-C867-49CC-893B-EC927893B76E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateAndTime", "DateAndTime\DateAndTime.csproj", "{29458988-C835-4C39-B7F4-031C3C2BFBCC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.DateAndTime", "DateAndTime\14.DateAndTime.csproj", "{29458988-C835-4C39-B7F4-031C3C2BFBCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateAge", "HowOldAreYou\CalculateAge.csproj", "{18230182-1E37-44E0-9B53-2AB1DB99DD61}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.CalculateAge", "HowOldAreYou\15.CalculateAge.csproj", "{18230182-1E37-44E0-9B53-2AB1DB99DD61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintLongSequence", "PrintLongSequence\PrintLongSequence.csproj", "{999CA2BA-C48F-4FB8-A629-26EE87436976}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.PrintLongSequence", "PrintLongSequence\16.PrintLongSequence.csproj", "{999CA2BA-C48F-4FB8-A629-26EE87436976}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.HorribleCode", "HorribleCode\10.HorribleCode.csproj", "{A242E065-348D-4299-9451-B4A2E73B6E58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{999CA2BA-C48F-4FB8-A629-26EE87436976}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{999CA2BA-C48F-4FB8-A629-26EE87436976}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{999CA2BA-C48F-4FB8-A629-26EE87436976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A242E065-348D-4299-9451-B4A2E73B6E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A242E065-348D-4299-9451-B4A2E73B6E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A242E065-348D-4299-9451-B4A2E73B6E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A242E065-348D-4299-9451-B4A2E73B6E58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
