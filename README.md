@@ -12,3 +12,5 @@ Nobody should be restricted by the software they use. There are four freedoms th
     <li>the freedom to share the changes you make.</li>
 </ul>
 When a program offers users all of these freedoms, we call it free software.
+
+Note: All task conditions can be found at TelerikAcademy <a href="https://github.com/TelerikAcademy/CSharp-Part-1" target="_blank">CSharp-Part-1 Course</a>
