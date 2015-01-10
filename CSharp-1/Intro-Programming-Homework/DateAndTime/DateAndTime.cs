@@ -1,12 +1,9 @@
 ﻿using System;
 
-namespace DateAndTime
+class DateAndTime
 {
-    class DateAndTime
+    static void Main()
     {
-        static void Main()
-        {
-            Console.WriteLine(DateTime.Now.ToString());
-        }
+        Console.WriteLine(DateTime.Now.ToString());
     }
 }

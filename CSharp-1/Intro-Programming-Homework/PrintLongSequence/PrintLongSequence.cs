@@ -1,21 +1,18 @@
 ﻿using System;
 
-namespace PrintLongSequence
+class PrintLongSequence
 {
-    class PrintLongSequence
+    static void Main()
     {
-        static void Main()
+        for (int i = 2; i < 1002; i++)
         {
-            for (int i = 2; i < 1002; i++)
+            if (i % 2 == 0)
             {
-                if (i % 2 == 0)
-                {
-                    Console.Write(i + ",");
-                }
-                else
-                {
-                    Console.Write(-i + ",");
-                }
+                Console.Write(i + ",");
+            }
+            else
+            {
+                Console.Write(-i + ",");
             }
         }
     }

@@ -1,14 +1,11 @@
 ﻿using System;
 
-namespace CalculateAge
+class CalculateAge
 {
-    class CalculateAge
+    static void Main()
     {
-        static void Main()
-        {
-            Console.WriteLine("Please type your age: ");
-            byte str = byte.Parse(Console.ReadLine());
-            Console.WriteLine("After 10 years you will be " + (str + 10) + " years old.");
-        }
+        Console.WriteLine("Please type your age: ");
+        byte age = byte.Parse(Console.ReadLine());
+        Console.WriteLine("After 10 years you will be " + (age + 10) + " years old.");
     }
 }
