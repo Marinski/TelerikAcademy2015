@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DeclareVariables", "01.DeclareVariables\01.DeclareVariables.csproj", "{4A27EA75-C3B2-4F64-B1F0-F508F4596A47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.FloatOrDouble", "02.FloatOrDouble\02.FloatOrDouble.csproj", "{28D300DC-A7EE-4681-A38D-AC436C1F401C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A27EA75-C3B2-4F64-B1F0-F508F4596A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A27EA75-C3B2-4F64-B1F0-F508F4596A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A27EA75-C3B2-4F64-B1F0-F508F4596A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A27EA75-C3B2-4F64-B1F0-F508F4596A47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28D300DC-A7EE-4681-A38D-AC436C1F401C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D300DC-A7EE-4681-A38D-AC436C1F401C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D300DC-A7EE-4681-A38D-AC436C1F401C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D300DC-A7EE-4681-A38D-AC436C1F401C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
