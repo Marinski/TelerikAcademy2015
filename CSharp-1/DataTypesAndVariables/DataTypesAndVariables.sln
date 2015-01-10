@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.FloatOrDouble", "02.Floa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.VariableInHex", "03.VariableInHex\03.VariableInHex.csproj", "{19350703-BF40-47A1-80A2-0E5357505C1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.UnicodeChar", "04.UnicodeChar\04.UnicodeChar.csproj", "{D9C71F1E-8A8E-4A8D-BB17-70D81572F758}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{19350703-BF40-47A1-80A2-0E5357505C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19350703-BF40-47A1-80A2-0E5357505C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19350703-BF40-47A1-80A2-0E5357505C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9C71F1E-8A8E-4A8D-BB17-70D81572F758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C71F1E-8A8E-4A8D-BB17-70D81572F758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C71F1E-8A8E-4A8D-BB17-70D81572F758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C71F1E-8A8E-4A8D-BB17-70D81572F758}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
