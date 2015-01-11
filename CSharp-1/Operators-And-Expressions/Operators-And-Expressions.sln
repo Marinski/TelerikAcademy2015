@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.BooleanDivider", "03.Boo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Rectangles", "04.Rectangles\04.Rectangles.csproj", "{970D5290-50DE-4826-8F45-132FC662843A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.CheckThirdDigit", "05.CheckThirdDigit\05.CheckThirdDigit.csproj", "{FDED4B46-111E-4E90-A282-8DD02641A581}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{970D5290-50DE-4826-8F45-132FC662843A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{970D5290-50DE-4826-8F45-132FC662843A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{970D5290-50DE-4826-8F45-132FC662843A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDED4B46-111E-4E90-A282-8DD02641A581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDED4B46-111E-4E90-A282-8DD02641A581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDED4B46-111E-4E90-A282-8DD02641A581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDED4B46-111E-4E90-A282-8DD02641A581}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
