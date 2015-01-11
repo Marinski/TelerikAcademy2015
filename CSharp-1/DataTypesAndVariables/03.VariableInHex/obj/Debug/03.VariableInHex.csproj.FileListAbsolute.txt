@@ -1,0 +1,6 @@
+C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\03.VariableInHex\bin\Debug\03.VariableInHex.exe.config
+C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\03.VariableInHex\obj\Debug\03.VariableInHex.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\03.VariableInHex\bin\Debug\03.VariableInHex.exe
+C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\03.VariableInHex\bin\Debug\03.VariableInHex.pdb
+C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\03.VariableInHex\obj\Debug\03.VariableInHex.exe
+C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\03.VariableInHex\obj\Debug\03.VariableInHex.pdb

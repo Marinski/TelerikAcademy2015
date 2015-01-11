@@ -1,0 +1,5 @@
+C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.exe.config
+C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.exe
+C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.pdb
+C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.exe
+C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.pdb

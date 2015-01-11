@@ -1,0 +1,5 @@
+C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\10.EmployeeData\bin\Debug\10.EmployeeData.exe.config
+C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\10.EmployeeData\bin\Debug\10.EmployeeData.exe
+C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\10.EmployeeData\bin\Debug\10.EmployeeData.pdb
+C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\10.EmployeeData\obj\Debug\10.EmployeeData.pdb
