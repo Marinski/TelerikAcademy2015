@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.OddEvenIntegers", "01.Od
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MoonGravitation", "02.MoonGravitation\02.MoonGravitation.csproj", "{E193FAF3-5677-4CF9-B025-5199E0DF7BF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.BooleanDivider", "03.BooleanDivider\03.BooleanDivider.csproj", "{D724B256-E885-4F25-B034-6999A927C2A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Rectangles", "04.Rectangles\04.Rectangles.csproj", "{970D5290-50DE-4826-8F45-132FC662843A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{E193FAF3-5677-4CF9-B025-5199E0DF7BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E193FAF3-5677-4CF9-B025-5199E0DF7BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E193FAF3-5677-4CF9-B025-5199E0DF7BF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D724B256-E885-4F25-B034-6999A927C2A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D724B256-E885-4F25-B034-6999A927C2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D724B256-E885-4F25-B034-6999A927C2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D724B256-E885-4F25-B034-6999A927C2A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{970D5290-50DE-4826-8F45-132FC662843A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970D5290-50DE-4826-8F45-132FC662843A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970D5290-50DE-4826-8F45-132FC662843A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970D5290-50DE-4826-8F45-132FC662843A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
