@@ -1,6 +1,0 @@
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe.config
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\13.ComparingFloats\bin\Debug\13.ComparingFloats.pdb
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\13.ComparingFloats\obj\Debug\13.ComparingFloats.csprojResolveAssemblyReference.cache

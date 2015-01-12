@@ -1,8 +1,0 @@
-C:\xampp\htdocs\TelerikAcademy2015\DataTypesAndVariables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
-C:\xampp\htdocs\TelerikAcademy2015\DataTypesAndVariables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe
-C:\xampp\htdocs\TelerikAcademy2015\DataTypesAndVariables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.pdb
-C:\xampp\htdocs\TelerikAcademy2015\DataTypesAndVariables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
-C:\xampp\htdocs\TelerikAcademy2015\DataTypesAndVariables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb

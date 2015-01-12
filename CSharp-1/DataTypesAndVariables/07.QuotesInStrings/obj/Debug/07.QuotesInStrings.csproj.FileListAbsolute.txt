@@ -1,5 +1,0 @@
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe.config
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.pdb
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.exe
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.pdb

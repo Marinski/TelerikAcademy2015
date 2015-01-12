@@ -1,5 +1,0 @@
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe.config
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.pdb
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.exe
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.pdb

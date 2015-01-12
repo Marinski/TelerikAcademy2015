@@ -1,5 +1,0 @@
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe.config
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\05.BooleanVariable\bin\Debug\05.BooleanVariable.pdb
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\05.BooleanVariable\obj\Debug\05.BooleanVariable.exe
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\05.BooleanVariable\obj\Debug\05.BooleanVariable.pdb

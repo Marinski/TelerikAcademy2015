@@ -1,5 +1,0 @@
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\04.UnicodeChar\bin\Debug\04.UnicodeChar.exe.config
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\04.UnicodeChar\bin\Debug\04.UnicodeChar.exe
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\04.UnicodeChar\bin\Debug\04.UnicodeChar.pdb
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\04.UnicodeChar\obj\Debug\04.UnicodeChar.exe
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\04.UnicodeChar\obj\Debug\04.UnicodeChar.pdb

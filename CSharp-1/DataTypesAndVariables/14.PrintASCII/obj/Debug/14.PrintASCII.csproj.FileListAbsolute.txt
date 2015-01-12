@@ -1,6 +1,0 @@
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\14.PrintASCII\bin\Debug\14.PrintASCII.exe.config
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\14.PrintASCII\bin\Debug\14.PrintASCII.exe
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\14.PrintASCII\bin\Debug\14.PrintASCII.pdb
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\14.PrintASCII\obj\Debug\14.PrintASCII.exe
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\14.PrintASCII\obj\Debug\14.PrintASCII.pdb
-C:\xampp\htdocs\TelerikAcademy2015\CSharp-1\DataTypesAndVariables\14.PrintASCII\obj\Debug\14.PrintASCII.csprojResolveAssemblyReference.cache
