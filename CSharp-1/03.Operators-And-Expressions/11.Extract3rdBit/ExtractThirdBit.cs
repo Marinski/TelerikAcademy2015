@@ -4,7 +4,6 @@ class ExtractThirdBit
 {
     static void Main()
     {
-
         int pos = 3;
         Console.Write("Enter positive integer to check 3rd bit value : ");
         uint n = Convert.ToUInt32(Console.ReadLine());  // 15 --> 00000000 00001111
