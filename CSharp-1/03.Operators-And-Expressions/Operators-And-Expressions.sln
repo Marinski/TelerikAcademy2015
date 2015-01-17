@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Extract3rdBit", "11.Extr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.ExtractBitFromInt", "12.ExtractBitFromInt\12.ExtractBitFromInt.csproj", "{FFC77FC4-1543-4B58-BD38-4B1CC46FD5D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.CheckBitAtPosition", "13.CheckBitAtPosition\13.CheckBitAtPosition.csproj", "{F1734618-3FF2-4B03-B34D-1DA2A0C27344}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{FFC77FC4-1543-4B58-BD38-4B1CC46FD5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFC77FC4-1543-4B58-BD38-4B1CC46FD5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFC77FC4-1543-4B58-BD38-4B1CC46FD5D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1734618-3FF2-4B03-B34D-1DA2A0C27344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1734618-3FF2-4B03-B34D-1DA2A0C27344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1734618-3FF2-4B03-B34D-1DA2A0C27344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1734618-3FF2-4B03-B34D-1DA2A0C27344}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
