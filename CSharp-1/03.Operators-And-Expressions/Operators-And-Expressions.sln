@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Trapezoids", "09.Trapezo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.PointAndRectangle", "10.PointAndRectangle\10.PointAndRectangle.csproj", "{F2FA98AE-7A63-423E-BFB0-CDB9B8278AA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Extract3rdBit", "11.Extract3rdBit\11.Extract3rdBit.csproj", "{A4A32E8C-1F6A-41E5-8C49-2BF1D97ACEC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{F2FA98AE-7A63-423E-BFB0-CDB9B8278AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2FA98AE-7A63-423E-BFB0-CDB9B8278AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2FA98AE-7A63-423E-BFB0-CDB9B8278AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4A32E8C-1F6A-41E5-8C49-2BF1D97ACEC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A32E8C-1F6A-41E5-8C49-2BF1D97ACEC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A32E8C-1F6A-41E5-8C49-2BF1D97ACEC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A32E8C-1F6A-41E5-8C49-2BF1D97ACEC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
