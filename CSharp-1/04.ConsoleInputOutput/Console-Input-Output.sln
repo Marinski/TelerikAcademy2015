@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CirclePerimArea", "03.Ci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.NumberComparer", "04.NumberComparer\04.NumberComparer.csproj", "{8E319C5A-88E8-4411-A601-F9D1BC58D153}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.FormattingNumbers", "05.FormattingNumbers\05.FormattingNumbers.csproj", "{B6D35C49-CFF3-4D6B-BB90-FC70BED58281}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8E319C5A-88E8-4411-A601-F9D1BC58D153}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E319C5A-88E8-4411-A601-F9D1BC58D153}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E319C5A-88E8-4411-A601-F9D1BC58D153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D35C49-CFF3-4D6B-BB90-FC70BED58281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D35C49-CFF3-4D6B-BB90-FC70BED58281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D35C49-CFF3-4D6B-BB90-FC70BED58281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D35C49-CFF3-4D6B-BB90-FC70BED58281}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
