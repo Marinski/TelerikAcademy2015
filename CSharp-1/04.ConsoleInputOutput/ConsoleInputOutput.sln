@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SumOfNumbers", "01.SumOfNumbers\01.SumOfNumbers.csproj", "{0AF7D87C-1377-4A60-AB12-EC95499439CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PrintCompanyInfo", "02.PrintCompanyInfo\02.PrintCompanyInfo.csproj", "{8C3707DD-F536-42C9-88CB-D236F3DFC2B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0AF7D87C-1377-4A60-AB12-EC95499439CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AF7D87C-1377-4A60-AB12-EC95499439CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AF7D87C-1377-4A60-AB12-EC95499439CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C3707DD-F536-42C9-88CB-D236F3DFC2B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3707DD-F536-42C9-88CB-D236F3DFC2B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3707DD-F536-42C9-88CB-D236F3DFC2B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3707DD-F536-42C9-88CB-D236F3DFC2B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
