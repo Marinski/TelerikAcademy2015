@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Write a program that reads the information about a company and its manager and prints it back on the console.
+
+using System;
 using System.Text;
 using System.Threading;
 using System.Globalization;
