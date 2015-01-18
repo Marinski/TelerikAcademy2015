@@ -12,8 +12,11 @@ namespace _05.FormattingNumbers
             Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
             Console.OutputEncoding = Encoding.UTF8;
 
+            Console.Write("Enter first number: ");
             int a = int.Parse(Console.ReadLine());
+            Console.Write("Enter second number: ");
             float b = float.Parse(Console.ReadLine());
+            Console.Write("Enter third number: ");
             float c = float.Parse(Console.ReadLine());
 
             // a in hex
