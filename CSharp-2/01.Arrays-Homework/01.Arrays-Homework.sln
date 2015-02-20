@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CompareArrays", "02.Comp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CompareCharArrays", "03.CompareCharArrays\03.CompareCharArrays.csproj", "{FEEC09EB-869C-4472-AAAE-F876C16F6466}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MaximalSequence", "04.MaximalSequence\04.MaximalSequence.csproj", "{611F5659-A4A1-4BA6-B255-FFD517A4A478}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FEEC09EB-869C-4472-AAAE-F876C16F6466}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEEC09EB-869C-4472-AAAE-F876C16F6466}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEEC09EB-869C-4472-AAAE-F876C16F6466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{611F5659-A4A1-4BA6-B255-FFD517A4A478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611F5659-A4A1-4BA6-B255-FFD517A4A478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611F5659-A4A1-4BA6-B255-FFD517A4A478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611F5659-A4A1-4BA6-B255-FFD517A4A478}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
