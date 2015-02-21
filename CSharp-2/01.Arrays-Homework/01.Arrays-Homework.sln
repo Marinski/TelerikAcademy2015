@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.FindSumInArray", "10.Fin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.BinarySearch", "11.BinarySearch\11.BinarySearch.csproj", "{8034E86A-564B-41CF-A25A-F29CA8543090}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.IndexOfLetters", "12.IndexOfLetters\12.IndexOfLetters.csproj", "{4DEC5D43-4D6F-406F-9FBD-B04BE08F2F3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{8034E86A-564B-41CF-A25A-F29CA8543090}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8034E86A-564B-41CF-A25A-F29CA8543090}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8034E86A-564B-41CF-A25A-F29CA8543090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DEC5D43-4D6F-406F-9FBD-B04BE08F2F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DEC5D43-4D6F-406F-9FBD-B04BE08F2F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DEC5D43-4D6F-406F-9FBD-B04BE08F2F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DEC5D43-4D6F-406F-9FBD-B04BE08F2F3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
