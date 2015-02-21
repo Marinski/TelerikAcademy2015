@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("FindSumInArray")]
+[assembly: AssemblyTitle("11.BinarySearch")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("FindSumInArray")]
+[assembly: AssemblyProduct("11.BinarySearch")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("5dd6a7b6-f7f1-4585-82d5-2e4762bbc3ee")]
+[assembly: Guid("3c098adb-eaa7-4882-9609-31fcbe0e1470")]
 
 // Version information for an assembly consists of the following four values:
 //
