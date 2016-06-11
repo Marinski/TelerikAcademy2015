@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cataloge name="Cataloge with Songs">
+  <albums>
+    <album>
+      <name>Slip of the Tongue</name>
+      <artist>Whitesnake</artist>
+      <year>1989</year>
+      <producer>EMI/Geffen Records (US)</producer>
+      <price>15</price>
+      <songs>
+        <song>
+          <title>Slip of the Tongue</title>
+          <duration>5:20</duration>
+        </song>
+        <song>
+          <title>Cheap an' Nasty</title>
+          <duration>3:28</duration>
+        </song>
+        <song>
+          <title>Fool for Your Loving '89</title>
+          <duration>4:10</duration>
+        </song>
+        <song>
+          <title>Now You're Gone</title>
+          <duration>4:11</duration>
+        </song>
+        <song>
+          <title>Kittens Got Claws</title>
+          <duration>5:00</duration>
+        </song>
+        <song>
+          <title>Wings of the Storm</title>
+          <duration>5:00</duration>
+        </song>
+        <song>
+          <title>The Deeper the Love</title>
+          <duration>4:22</duration>
+        </song>
+        <song>
+          <title>Judgement Day</title>
+          <duration>5:15</duration>
+        </song>
+        <song>
+          <title>Slow Poke Music</title>
+          <duration>3:59</duration>
+        </song>
+        <song>
+          <title>Sailing Ships</title>
+          <duration>6:02</duration>
+        </song>
+      </songs>
+    </album>
+    <album>
+      <name>Good to Be Bad</name>
+      <artist>Whitesnake</artist>
+      <year>2008</year>
+      <producer>SPV/Steamhammer</producer>
+      <price>18</price>
+      <songs>
+        <song>
+          <title>Best Years</title>
+          <duration>5:16</duration>
+        </song>
+        <song>
+          <title>Can You Hear the Wind Blow</title>
+          <duration>5:03</duration>
+        </song>
+        <song>
+          <title>Call on Me</title>
+          <duration>5:01</duration>
+        </song>
+        <song>
+          <title>All I Want All I Need</title>
+          <duration>5:40</duration>
+        </song>
+        <song>
+          <title>Good to Be Bad</title>
+          <duration>5:13</duration>
+        </song>
+        <song>
+          <title>All for Love</title>
+          <duration>5:13</duration>
+        </song>
+        <song>
+          <title>Summer Rain</title>
+          <duration>6:10</duration>
+        </song>
+        <song>
+          <title>Lay Down Your Love</title>
+          <duration>6:01</duration>
+        </song>
+        <song>
+          <title>A Fool in Love</title>
+          <duration>5:50</duration>
+        </song>
+        <song>
+          <title>Got What You Need</title>
+          <duration>4:15</duration>
+        </song>
+        <song>
+          <title>Til the End of Time</title>
+          <duration>5:32</duration>
+        </song>
+      </songs>
+    </album>
+  </albums>
+</cataloge>

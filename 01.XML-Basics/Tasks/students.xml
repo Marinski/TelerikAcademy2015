@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xml" href="students.xsl" ?>
+
+<academy name="Telerik Academy">
+  
+  <students xmlns="urn:students">
+    <student>
+      <name>Marin Stoyanov</name>
+      <sex>male</sex>
+      <bdate>1989/03/07</bdate>
+      <phone>0888888899</phone>
+      <email>marin@example.com</email>
+      <course>Databases</course>
+      <specialty>Marketing</specialty>
+      <facultyNumber>000062</facultyNumber>
+      <takenExams>
+        <exam>
+          <name>C#-Part 1</name>
+          <tutor>I.Kenov</tutor>
+          <score>200</score>
+        </exam>
+      </takenExams>
+      <endorsements>
+        <endorsement>
+          <teacher>I. Kenov</teacher>
+          <text>Very Good</text>
+        </endorsement>
+      </endorsements>
+      <enrollments>
+        <enrollment>
+          <date>2015-12-10</date>
+          <score>250</score>
+        </enrollment>
+      </enrollments>
+    </student>
+    <student>
+      <name>Gosho Toshov</name>
+      <sex>male</sex>
+      <bdate>1324/09/16</bdate>
+      <phone>0123456789</phone>
+      <email>gosho@tosho.net</email>
+      <course>Databases</course>
+      <specialty>Agroculture</specialty>
+      <facultyNumber>000063</facultyNumber>
+      <takenExams>
+        <exam>
+          <name>C#-Part 1</name>
+          <tutor>I.Kenov</tutor>
+          <score>200</score>
+        </exam>
+      </takenExams>
+      <endorsements>
+        <endorsement>
+          <teacher>Doncho Minkov</teacher>
+          <text>Excellent</text>
+        </endorsement>
+      </endorsements>
+      <enrollments>
+        <enrollment>
+          <date>2015-03-07</date>
+          <score>340</score>
+        </enrollment>
+      </enrollments>
+    </student>
+  </students>
+  
+</academy>

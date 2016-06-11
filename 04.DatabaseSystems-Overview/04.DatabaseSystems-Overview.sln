@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tasks", "Tasks", "{7D751121-1E9B-461F-983C-0A12A5C204B4}"
+	ProjectSection(SolutionItems) = preProject
+		1.KnownDataBaseModels.md = 1.KnownDataBaseModels.md
+		10.SQL-Transactions.md = 10.SQL-Transactions.md
+		11.NoSQL-DB.md = 11.NoSQL-DB.md
+		12.Non-RelationalDataModels.md = 12.Non-RelationalDataModels.md
+		13.NoSQLexamples.md = 13.NoSQLexamples.md
+		2.RDBMSmainFunctions.md = 2.RDBMSmainFunctions.md
+		3.DBtableDefinition.md = 3.DBtableDefinition.md
+		4.PrimaryForeignKey.md = 4.PrimaryForeignKey.md
+		5.RelationshipsBetweenTablesRDB.md = 5.RelationshipsBetweenTablesRDB.md
+		6.DB-Normalization.md = 6.DB-Normalization.md
+		7.DB-Constraints.md = 7.DB-Constraints.md
+		8.DB-Pros-Cons.md = 8.DB-Pros-Cons.md
+		9.SQL-purpose.md = 9.SQL-purpose.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

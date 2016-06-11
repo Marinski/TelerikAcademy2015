@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<cataloge name="Cataloge with Songs">
+  
+  <albums>
+    <album>
+      <name>Slip of the Tongue</name>
+      <artist>Whitesnake</artist>
+      <year>1989</year>
+      <producer>EMI/Geffen Records (US)</producer>
+      <price>15</price>
+      <songs>
+        <song>
+          <title>Slip of the Tongue</title>
+          <duration>5:20</duration>
+        </song>
+        <song>
+          <title>Cheap an' Nasty</title>
+          <duration>3:28</duration>
+        </song>
+        <song>
+          <title>Fool for Your Loving '89</title>
+          <duration>4:10</duration>
+        </song>
+        <song>
+          <title>Now You're Gone</title>
+          <duration>4:11</duration>
+        </song>
+        <song>
+          <title>Kittens Got Claws</title>
+          <duration>5:00</duration>
+        </song>
+        <song>
+          <title>Wings of the Storm</title>
+          <duration>5:00</duration>
+        </song>
+        <song>
+          <title>The Deeper the Love</title>
+          <duration>4:22</duration>
+        </song>
+        <song>
+          <title>Judgement Day</title>
+          <duration>5:15</duration>
+        </song>
+        <song>
+          <title>Slow Poke Music</title>
+          <duration>3:59</duration>
+        </song>
+        <song>
+          <title>Sailing Ships</title>
+          <duration>6:02</duration>
+        </song>
+      </songs>
+    </album>
+    <album>
+      <name>Restless Heart</name>
+      <artist>Whitesnake</artist>
+      <year>1997</year>
+      <producer>EMI</producer>
+      <price>35</price>
+      <songs>
+        <song>
+          <title>Don't Fade Away</title>
+          <duration>5:02</duration>
+        </song>
+        <song>
+          <title>All in the Name of Love</title>
+          <duration>4:42</duration>
+        </song>
+        <song>
+          <title>Restless Heart</title>
+          <duration>4:50</duration>
+        </song>
+        <song>
+          <title>Too Many Tears</title>
+          <duration>5:44</duration>
+        </song>
+        <song>
+          <title>Crying</title>
+          <duration>5:34</duration>
+        </song>
+        <song>
+          <title>Stay with Me</title>
+          <duration>4:09</duration>
+        </song>
+        <song>
+          <title>Can't Go On</title>
+          <duration>4:27</duration>
+        </song>
+        <song>
+          <title>You're So Fine</title>
+          <duration>5:10</duration>
+        </song>
+        <song>
+          <title>Your Precious Love</title>
+          <duration>4:34</duration>
+        </song>
+        <song>
+          <title>Take Me Back Again</title>
+          <duration>6:02</duration>
+        </song>
+        <song>
+          <title>Woman Trouble Blues</title>
+          <duration>5:35</duration>
+        </song>
+      </songs>
+    </album>
+    <album>
+      <name>Good to Be Bad</name>
+      <artist>Whitesnake</artist>
+      <year>2008</year>
+      <producer>SPV/Steamhammer</producer>
+      <price>18</price>
+      <songs>
+        <song>
+          <title>Best Years</title>
+          <duration>5:16</duration>
+        </song>
+        <song>
+          <title>Can You Hear the Wind Blow</title>
+          <duration>5:03</duration>
+        </song>
+        <song>
+          <title>Call on Me</title>
+          <duration>5:01</duration>
+        </song>
+        <song>
+          <title>All I Want All I Need</title>
+          <duration>5:40</duration>
+        </song>
+        <song>
+          <title>Good to Be Bad</title>
+          <duration>5:13</duration>
+        </song>
+        <song>
+          <title>All for Love</title>
+          <duration>5:13</duration>
+        </song>
+        <song>
+          <title>Summer Rain</title>
+          <duration>6:10</duration>
+        </song>
+        <song>
+          <title>Lay Down Your Love</title>
+          <duration>6:01</duration>
+        </song>
+        <song>
+          <title>A Fool in Love</title>
+          <duration>5:50</duration>
+        </song>
+        <song>
+          <title>Got What You Need</title>
+          <duration>4:15</duration>
+        </song>
+        <song>
+          <title>Til the End of Time</title>
+          <duration>5:32</duration>
+        </song>
+      </songs>
+    </album>
+    <album>
+      <name>Appetite for Destruction</name>
+      <artist>Guns N' Roses</artist>
+      <year>1987</year>
+      <producer>Mike Clink</producer>
+      <price>25</price>
+      <songs>
+        <song>
+          <title>Welcome to the Jungle</title>
+          <duration>4:31</duration>
+        </song>
+        <song>
+          <title>It's So Easy</title>
+          <duration>Nightrain</duration>
+        </song>
+        <song>
+          <title>Out ta Get Me</title>
+          <duration>4:20</duration>
+        </song>
+        <song>
+          <title>Mr. Brownstone</title>
+          <duration>3:46</duration>
+        </song>
+        <song>
+          <title>Paradise City</title>
+          <duration>6:46</duration>
+        </song>
+        <song>
+          <title>My Michelle</title>
+          <duration>3:39</duration>
+        </song>
+        <song>
+          <title>Think About You</title>
+          <duration>3:50</duration>
+        </song>
+        <song>
+          <title>Sweet Child o' Mine</title>
+          <duration>5:55</duration>
+        </song>
+        <song>
+          <title>You're Crazy</title>
+          <duration>3:25</duration>
+        </song>
+        <song>
+          <title>Anything Goes</title>
+          <duration>Rocket Queen</duration>
+        </song>
+      </songs>
+    </album>
+  </albums>
+</cataloge>
